@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 bot = commands.Bot(command_prefix="")#select your prefix
-TOKEN = ''#place your token
+TOKEN = 'NjQwMTUxMjI1OTgzMTcyNjA4.XxAJYQ.vHzi-udBKKZSqzaeUwChUP-61OE'#place your token
 @bot.event
 async def on_ready():
     while True:
