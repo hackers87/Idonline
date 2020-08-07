@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 
-TOKEN = 'NjQwMTUxMjI1OTgzMTcyNjA4.XxAJYQ.vHzi-udBKKZSqzaeUwChUP-61OE'#place your token
+TOKEN = 'NTU0OTE5MTg0MzEyODI3OTIy.XyzkzA.Q2Qz8K2KkqegfjL4Vyrb5JD3g4E'#place your token
 @bot.event
 async def on_ready():
     while True:
