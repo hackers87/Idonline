@@ -13,15 +13,15 @@ async def on_ready():
     print(bot.user.name)
     print('Online')
     print('started.......')
-    print('Created with 💖 by L0SER#8228')
+    print('Created with ꧁༒• ⚘!ϻR.ᎻᎯᏨᏦᎬᏒᴼᴾ •༒꧂#9090 ')
     while True:
-    	await bot.change_presence(activity=discord.Activity(type=1,name="on Discord!"))
+    	await bot.change_presence(activity=discord.Activity(type=1,name="all VPN and number life "))
     	await asyncio.sleep(3)
     	
-    	await bot.change_presence(activity=discord.Activity(type=2,name=".help"))
+    	await bot.change_presence(activity=discord.Activity(type=2,name="selling scripts "))
     	await asyncio.sleep(3)
 	
-    	await bot.change_presence(activity=discord.Activity(type=2,name=f"bot.user.name"))
+    	await bot.change_presence(activity=discord.Activity(type=2,name="1year recharge"))
     	await asyncio.sleep(3)
     	
     	await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name="Vedantu!"))
